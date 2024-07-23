@@ -23,6 +23,6 @@ This project is a recipe recommendation system that suggests recipes based on th
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/your-username/recipe-recommendation-system.git
+   git clone https://github.com/mykhailokytsia/Recipe_Recommendation_Engine.git
    cd recipe-recommendation-system
 # Recipe_Recommendation_Engine
